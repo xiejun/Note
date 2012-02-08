@@ -1,0 +1,18 @@
+ÒÆ¶¯
+w,b
+e,ge
+n$
+ctrl d , ctrl u
+ctrl e , ctrl y
+ctrl f , ctrl b
+zt zz zb
+¼ìË÷
+/word ?word /o<up>
+/\<word\>
+* # g* g#
+nohlsearch
+Ìø×ª
+`` ctrl+I ctrl+O
+ms `s
+
+ 
